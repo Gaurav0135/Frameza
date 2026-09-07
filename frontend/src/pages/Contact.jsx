@@ -90,7 +90,7 @@ const Contact = () => {
 
                 <a
                   {/* href="https://www.linkedin.com/in/gaurav-patel-9a34212bb" */}
-                  https://www.linkedin.com/in/sauravpatel64/
+                  href="https://www.linkedin.com/in/sauravpatel64/"
                   target="_blank"
                   rel="noreferrer"
                   style={styles.socialBtn}
@@ -101,7 +101,7 @@ const Contact = () => {
 
                 <a
                   {/* href="https://github.com/Gaurav0135" */}
-                  https://github.com/SauravPatel64
+                  href="https://github.com/SauravPatel64"
                   target="_blank"
                   rel="noreferrer"
                   style={styles.socialBtn}

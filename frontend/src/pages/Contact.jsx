@@ -12,6 +12,7 @@ const Contact = () => {
     setForm((prev) => ({ ...prev, [id]: value }));
   };
 
+  
   const handleSubmit = async (e) => {
     e.preventDefault();
 

@@ -90,7 +90,6 @@ const Contact = () => {
               <div style={styles.socialLinks}>
 
                 <a
-                  {/* href="https://www.linkedin.com/in/gaurav-patel-9a34212bb" */}
                   href="https://www.linkedin.com/in/sauravpatel64/"
                   target="_blank"
                   rel="noreferrer"
@@ -101,7 +100,6 @@ const Contact = () => {
                 </a>
 
                 <a
-                  {/* href="https://github.com/Gaurav0135" */}
                   href="https://github.com/SauravPatel64"
                   target="_blank"
                   rel="noreferrer"

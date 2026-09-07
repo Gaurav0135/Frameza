@@ -68,7 +68,7 @@ const Contact = () => {
                 <span style={{ ...styles.infoIcon, ...styles.phoneIcon }}>P</span>
                 <span>Phone</span>
               </strong>
-              <p>9691184503</p>
+              <p>9200539212</p>
             </div>
 
             <div style={styles.infoBlock}>

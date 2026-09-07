@@ -385,6 +385,7 @@ const styles = {
     color: "#ff9a9a"
   },
 
+  
   pending: {
     background: "#2a2a2a",
     color: "#ccc"
